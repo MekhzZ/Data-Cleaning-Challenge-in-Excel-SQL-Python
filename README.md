@@ -1,6 +1,6 @@
 # Data Cleaning Challenge in Excel, SQL, Python
 
-This project showcases my ability to clean and transform raw data using three different platforms—**Excel**, **SQL**, and **Python**. The goal of this challenge was to demonstrate versatility in data cleaning techniques and achieve the same output regardless of the tool used. 
+This challenge showcases my ability to clean and transform raw data using three different platforms—**Excel**, **SQL**, and **Python**. The goal of this challenge was to demonstrate versatility in data cleaning techniques and achieve the same output regardless of the tool used. 
 
 ## Objective
 

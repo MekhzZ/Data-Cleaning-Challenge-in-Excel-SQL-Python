@@ -67,7 +67,7 @@ The cleaning process addressed the following key issues:
  - Run the Jupyter Notebook data_cleaning_python.ipynb for Python.
 
 
-3. Insights and Learnings
+## Insights and Learnings
   - Excel: Great for quick visual inspections and small datasets but less scalable for large datasets.
   - SQL: Ideal for structured data in relational databases; efficient for complex queries.
   - Python: Most flexible and scalable, with robust libraries for advanced data manipulation.

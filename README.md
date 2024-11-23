@@ -57,7 +57,7 @@ The cleaning process addressed the following key issues:
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/data-cleaning-challenge.git
+   git clone https://github.com/MekhzZ/Data_Cleaning_Challenge_in_Excel_SQL_Python.git
    ```
 
 
